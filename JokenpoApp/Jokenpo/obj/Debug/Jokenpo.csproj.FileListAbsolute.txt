@@ -1,0 +1,10 @@
+F:\DOJO-Programmers\Jokenpo\JokenpoApp\Jokenpo\bin\Debug\Jokenpo.exe.config
+F:\DOJO-Programmers\Jokenpo\JokenpoApp\Jokenpo\bin\Debug\Jokenpo.exe
+F:\DOJO-Programmers\Jokenpo\JokenpoApp\Jokenpo\bin\Debug\Jokenpo.pdb
+F:\DOJO-Programmers\Jokenpo\JokenpoApp\Jokenpo\obj\Debug\Jokenpo.csprojAssemblyReference.cache
+F:\DOJO-Programmers\Jokenpo\JokenpoApp\Jokenpo\obj\Debug\Jokenpo.FrmPrincipal.resources
+F:\DOJO-Programmers\Jokenpo\JokenpoApp\Jokenpo\obj\Debug\Jokenpo.Properties.Resources.resources
+F:\DOJO-Programmers\Jokenpo\JokenpoApp\Jokenpo\obj\Debug\Jokenpo.csproj.GenerateResource.cache
+F:\DOJO-Programmers\Jokenpo\JokenpoApp\Jokenpo\obj\Debug\Jokenpo.csproj.CoreCompileInputs.cache
+F:\DOJO-Programmers\Jokenpo\JokenpoApp\Jokenpo\obj\Debug\Jokenpo.exe
+F:\DOJO-Programmers\Jokenpo\JokenpoApp\Jokenpo\obj\Debug\Jokenpo.pdb
